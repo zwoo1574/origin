@@ -1,0 +1,111 @@
+li {
+    list-style: none;
+}
+button {
+    border: none;
+    height: 40px;
+    border-color: rgb(220, 217, 217);
+}
+
+.first{
+    display: flex;
+    margin: 50px;
+    padding-left: 20px;
+    padding-bottom: 40%;
+}
+.third {
+    display: flex;
+    padding-left: 50%;
+    justify-content: space-between;
+}
+
+.avatar1{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 30px;
+}
+
+.main_video {
+    height: 100%;
+}
+
+.channel {
+    display: flex;
+}
+
+.plus {
+    background-color: rgb(234, 231, 231);
+    border-radius: 20px;
+    padding-bottom: 30px;
+    margin-top: 15px;
+    text-align: left;
+}
+.bar {
+    display: flex;
+}
+
+.aside {
+    margin-left: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.avatar2 {
+    width: 200px;
+    border-radius: 10px;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+.check {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.smalltext {
+    font-size: 13px;
+    color: gray;
+}
+.text {
+    text-align: left;
+}
+.textbox {
+    height: 20px;
+    padding-left: 10px;
+    margin-left: 10px;
+    border-radius: 50px;
+    border-color: rgb(196, 191, 191);
+}
+.searchbutton {
+    border-radius: 50px;
+    background-color: white;
+    height: 40px;
+    border-color: rgb(196, 191, 191);
+    flex: 9;
+}
+.push {
+    border-radius: 30px;
+    width: 60px;
+    background-color: black;
+    color: white;
+}
+.whgdkdy {
+    display: flex;
+    border-radius: 30px;
+}
+.button2 {
+    border-radius: 30px;
+}
+.headerinput {
+    border-radius: 50%;
+    display: flex;
+}
